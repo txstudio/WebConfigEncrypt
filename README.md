@@ -1,6 +1,8 @@
 # web.config 加解密工具
 將指定路徑下 ASP.NET 網站 web.config 進行加解密工具
 
+> 覺得程式碼寫得很弱的可以去 Issues 抱怨 ...
+
 ## 系統需求
 - .NET Framework 4.6.1
 
