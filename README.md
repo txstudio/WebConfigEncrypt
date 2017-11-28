@@ -22,6 +22,8 @@ web.config 檔案的加密與解密作業必須要在同一台機器進行。
 
 處理的結果會顯示在下方輸出方塊，加工過的 web.config 檔案會呈現在應用程式右上方。
 
+## 應用程式擷圖
+![application screenshot](https://raw.githubusercontent.com/txstudio/WebConfigEncrypt/master/screenshot.gif)
 
 ## 參考資料
 [【潛盾機】web.config連線字串加密工具 - 黑暗執行緒](http://blog.darkthread.net/post-2010-08-29-web-config-connstr-encryptor-v09-cht.aspx)
